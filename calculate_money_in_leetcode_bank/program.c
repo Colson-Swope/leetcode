@@ -8,6 +8,7 @@ int totalMoney(int n) {
 
     int weeks = n / 7; 
     
+
     // count extra days in a week with mod 
       // 10 % 7 = 3 extra days 
     
