@@ -39,6 +39,6 @@ int main() {
     scanf("%d", &x);
 
     isPalindrome(x);  
-
+     
     return 0; 
 }
